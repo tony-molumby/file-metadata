@@ -1,2 +1,3 @@
-# file-metadata
-This application accepts a file from the user and then outputs the value of the size of that file in bytes.
+File Metadata Microservice
+
+This application receives a file from a user and then output the size of that file.  Kinda useless, I know...
